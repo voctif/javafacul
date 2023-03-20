@@ -11,9 +11,9 @@ public class exe3 {
 		int i = 0;
 		
 		while(chicom > zem) {
-			chicom = chicom + 0.2;
+			chicom = chicom + 0.02;
 			System.out.println("chico: " + formatador.format(chicom));
-			zem = zem + 0.3;
+			zem = zem + 0.03;
 			System.out.println("ze: " + formatador.format(zem));
 			System.out.println(" ");
 
