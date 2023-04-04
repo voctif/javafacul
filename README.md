@@ -1,3 +1,3 @@
 # javafacul
 
-literalmente um repositorio apenas para guardar exercicios e evoluçao de conteudo 
+repositorio com java evoluindo conceitos de logica e orientação a objeto
